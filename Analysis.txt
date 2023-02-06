@@ -1,0 +1,49 @@
+-----------------------------------------
+Person 1 is 34 year(s) old. Analysis Below: 
+-----------------------------------------
+Night: 	       0.00% Critical Samples
+Morning: 	     0.00% Critical Samples
+Daytime: 	    66.36% Critical Samples
+Evening: 	     0.00% Critical Samples
+-----------------------------------------
+Person 2 is 12 year(s) old. Analysis Below: 
+-----------------------------------------
+Night: 	       0.00% Critical Samples
+Morning: 	     0.00% Critical Samples
+Daytime: 	    67.27% Critical Samples
+Evening: 	     0.00% Critical Samples
+-----------------------------------------
+Person 3 is 6 year(s) old. Analysis Below: 
+-----------------------------------------
+Night: 	       0.00% Critical Samples
+Morning: 	     0.00% Critical Samples
+Daytime: 	    61.82% Critical Samples
+Evening: 	     0.00% Critical Samples
+-----------------------------------------
+Person 4 is 81 year(s) old. Analysis Below: 
+-----------------------------------------
+Night: 	       0.00% Critical Samples
+Morning: 	     0.00% Critical Samples
+Daytime: 	    80.91% Critical Samples
+Evening: 	     0.00% Critical Samples
+-----------------------------------------
+Person 1 is 8 year(s) old. Analysis Below: 
+-----------------------------------------
+Night: 	       0.00% Critical Samples
+Morning: 	     0.00% Critical Samples
+Daytime: 	    67.27% Critical Samples
+Evening: 	     0.00% Critical Samples
+-----------------------------------------
+Person 2 is 19 year(s) old. Analysis Below: 
+-----------------------------------------
+Night: 	       0.00% Critical Samples
+Morning: 	     0.00% Critical Samples
+Daytime: 	    66.36% Critical Samples
+Evening: 	     0.00% Critical Samples
+-----------------------------------------
+Person 3 is 39 year(s) old. Analysis Below: 
+-----------------------------------------
+Night: 	       0.00% Critical Samples
+Morning: 	     0.00% Critical Samples
+Daytime: 	    66.36% Critical Samples
+Evening: 	     0.00% Critical Samples
